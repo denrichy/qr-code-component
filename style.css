@@ -41,6 +41,6 @@ h2{
 }
 p{
   font-weight: 400;
-  padding-top: 10px;
+  padding-top: calc(11px-1px);
   color: var(--Gray)
 }
