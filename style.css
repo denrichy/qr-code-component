@@ -20,6 +20,7 @@ body {
     background: var(--Light-gray);
 }
 .contain{
+  text-align: center;
   height:480px;
   width: 310px;
   background:var(--White);
@@ -33,11 +34,7 @@ body {
   max-width:100%;
   padding:15px;
 }
-.inside{
-  text-align: center;
-  margin-left: 10px;
-  margin-right:10px;
-}
+
 h2{
   font-weight: 700;
   color: var(--Dark-blue);
